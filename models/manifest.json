@@ -1,0 +1,98 @@
+{
+  "characters/kiki.glb": {
+    "bytes": 207712,
+    "hash": "0eefd36bb7"
+  },
+  "kits/hub.glb": {
+    "bytes": 326968,
+    "hash": "9d60619889"
+  },
+  "kits/valley.glb": {
+    "bytes": 151068,
+    "hash": "c3640dfd46"
+  },
+  "characters/bunbun.glb": {
+    "bytes": 132988,
+    "hash": "a7f8843bb3"
+  },
+  "props/glyphs.glb": {
+    "bytes": 509320,
+    "hash": "cdab4b0a8d"
+  },
+  "props/wonder-props.glb": {
+    "bytes": 182664,
+    "hash": "442f7d9aff"
+  },
+  "characters/cat.glb": {
+    "bytes": 50204,
+    "hash": "e46546defa"
+  },
+  "characters/dog.glb": {
+    "bytes": 39832,
+    "hash": "48f0bb01f1"
+  },
+  "kits/words.glb": {
+    "bytes": 152336,
+    "hash": "4850c7c151"
+  },
+  "characters/pig.glb": {
+    "bytes": 43008,
+    "hash": "2399cffb49"
+  },
+  "characters/fox.glb": {
+    "bytes": 46376,
+    "hash": "f9ca861244"
+  },
+  "characters/leo.glb": {
+    "bytes": 74384,
+    "hash": "c91bd9fe9a"
+  },
+  "characters/mia.glb": {
+    "bytes": 74960,
+    "hash": "7bbe8d41c9"
+  },
+  "kits/train.glb": {
+    "bytes": 67000,
+    "hash": "5094f6c823"
+  },
+  "kits/safari.glb": {
+    "bytes": 70376,
+    "hash": "97f3d2c40a"
+  },
+  "props/rewards.glb": {
+    "bytes": 146112,
+    "hash": "bbb9a9efbe"
+  },
+  "characters/friend-chick.glb": {
+    "bytes": 42780,
+    "hash": "2879800150"
+  },
+  "characters/friend-fish.glb": {
+    "bytes": 34856,
+    "hash": "651c7021ba"
+  },
+  "characters/friend-bee.glb": {
+    "bytes": 51296,
+    "hash": "2f084cfb9a"
+  },
+  "characters/friend-penguin.glb": {
+    "bytes": 43128,
+    "hash": "7daad51d33"
+  },
+  "characters/friend-panda.glb": {
+    "bytes": 40984,
+    "hash": "3fafa52268"
+  },
+  "characters/friend-koala.glb": {
+    "bytes": 40104,
+    "hash": "5d6c71f2ad"
+  },
+  "characters/friend-giraffe.glb": {
+    "bytes": 40268,
+    "hash": "5bc8638b42"
+  },
+  "characters/friend-elephant.glb": {
+    "bytes": 46640,
+    "hash": "84a7f5c842"
+  }
+}

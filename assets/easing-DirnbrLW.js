@@ -1,0 +1,1 @@
+var e=(e,t,n)=>e+(t-e)*n,t=e=>e<.5?4*e*e*e:1-(-2*e+2)**3/2,n=e=>1-(1-e)**3,r=e=>1+2.4*(e-1)**3+1.4*(e-1)**2,i=(e,t)=>1-Math.exp(-e*t);function a(e,t){let n=(t-e)%(Math.PI*2);return n>Math.PI&&(n-=Math.PI*2),n<-Math.PI&&(n+=Math.PI*2),n}export{n as a,r as i,i as n,e as o,t as r,a as t};
